@@ -1,4 +1,5 @@
 # STRUCTURED QUERY LANGUAGE - SQL
 ## DATA DEFINITION LANGUAGE - DDL
 
-_ Tài liệu không được thương mại hoá _
+Tạo database đơn giản:
+CREATE DATABASE **_tên database_**
