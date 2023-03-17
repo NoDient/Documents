@@ -3,5 +3,5 @@
 
 Tạo database đơn giản:
 `CREATE DATABASE` **_<tên database>_**
-\ NVí dụ:
+Ví dụ:
 `CREATE DATABASE MYSCHOOL`
