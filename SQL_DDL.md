@@ -2,4 +2,4 @@
 ## DATA DEFINITION LANGUAGE - DDL
 
 Tạo database đơn giản:
-CREATE DATABASE **_tên database_**
+`CREATE DATABASE` **_<tên database>_**
